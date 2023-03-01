@@ -6,6 +6,12 @@ Olá Pessoal, me chamo Adriano, e sou programador Front-End 👋
 - JavaScript
 - Git
 
+Irei aprender em seguida:
+
+- Node.js
+- React.js
+- Angular
+
 Acompanhe minhas habilidades no meu repositório.
 
 - 🔭 Pretendo começar minha carreira com fron-end, mas quero ser dev fullstack, sou vidrado na area back-end por igual.
