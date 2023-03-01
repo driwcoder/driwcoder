@@ -1,7 +1,14 @@
 Olá Pessoal, me chamo Adriano, e sou programador Front-End 👋
 
-- 🔭 Pretendo trabalhar com front-end
-- 🌱 Estou atualmente aprendendo: HTML, CSS e JavaScript
+- Habilidades atuais
+- HTML
+- CSS
+- JavaScript
+- Git
+
+Acompanhe minhas habilidades no meu repositório.
+
+- 🔭 Pretendo começar minha carreira com fron-end, mas quero ser dev fullstack, sou vidrado na area back-end por igual.
 - 📫 Fale comigo: https://driwcoder.github.io/MeuLinktree
 - 😄 Pronomes: ele/dele
 - ⚡ Fato engraçado --> eu sei cantar muito bem!
