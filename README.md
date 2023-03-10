@@ -8,6 +8,10 @@ Acredito ter uma abordagem eficiente, pois entendo que a melhor maneira de apren
 - CSS
 - JavaScript
 - Git
+- Node.js
+- Express.js
+- EJS
+- MongoDB
 
 Irei aprender em seguida:
 
