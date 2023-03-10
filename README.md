@@ -11,7 +11,7 @@ Acredito ter uma abordagem eficiente, pois entendo que a melhor maneira de apren
 - Node.js
 - Express.js
 - EJS
-- MongoDB
+- MongoDB Compass / mongoose
 
 Irei aprender em seguida:
 
