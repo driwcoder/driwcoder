@@ -7,17 +7,17 @@ Acredito ter uma abordagem eficiente, pois entendo que a melhor maneira de apren
 - HTML
 - CSS
 - JavaScript
-- Git
-- Node.js
-- Express.js
+- React.js / Vite
 - EJS
+- Git
+- Node.js / nodemon
+- Express.js
 - MongoDB Compass / mongoose
+- Sequelize
 
 Irei aprender em seguida:
-
-- Node.js
-- React.js
 - Angular
+- Vue.js
 
 Acompanhe minhas habilidades no meu repositório.
 
