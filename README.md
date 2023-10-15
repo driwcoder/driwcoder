@@ -3,17 +3,16 @@ Tenho 29 anos, sou apaixonado por programação e estou atualmente estudando tec
 
 Acredito ter uma abordagem eficiente, pois entendo que a melhor maneira de aprender é através da prática e da experiência obtida a cada projeto finalizado, além disso, a parte teórica, documentações das tecnologias que desejo aprender, também são de total importância para conseguir dominar tais ferramentas. 
 
-- Habilidades atuais
+Habilidades atuais
 
 - JavaScript
 - React.js / Vite / Next.js 13
+- CSS / Sass / Tailwind CSS
 - Node.js / nodemon
 - Express.js / Sequelize / Prisma
 - MongoDB Compass / mongoose
 - Git / Github
 - HTML
-- CSS
-- EJS
 
 Estou me especializando em Next.js 13 por uma série de razões. Primeiro, o Next.js 13 é um framework poderoso e flexível que pode ser usado para construir tanto aplicações frontend quanto backend. Com suporte integrado para funções serverless, TypeScript e roteamento do sistema de arquivos, o que deixa mais facil criar APIs backend escaláveis e performáticas.
 
