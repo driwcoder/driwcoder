@@ -4,27 +4,27 @@ Tenho 29 anos, sou apaixonado por programação e estou atualmente estudando tec
 Acredito ter uma abordagem eficiente, pois entendo que a melhor maneira de aprender é através da prática e da experiência obtida a cada projeto finalizado, além disso, a parte teórica, documentações das tecnologias que desejo aprender, também são de total importância para conseguir dominar tais ferramentas. 
 
 - Habilidades atuais
+
+- JavaScript
+- React.js / Vite / Next.js 13
+- Node.js / nodemon
+- Express.js / Sequelize / Prisma
+- MongoDB Compass / mongoose
+- Git / Github
 - HTML
 - CSS
-- JavaScript
-- React.js / Vite
 - EJS
-- Git
-- Node.js / nodemon
-- Express.js
-- MongoDB Compass / mongoose
-- Sequelize
 
-Irei aprender em seguida:
-- Angular
-- Vue.js
+Estou me especializando em Next.js 13 por uma série de razões. Primeiro, o Next.js 13 é um framework poderoso e flexível que pode ser usado para construir tanto aplicações frontend quanto backend. Com suporte integrado para funções serverless, TypeScript e roteamento do sistema de arquivos, o que deixa mais facil criar APIs backend escaláveis e performáticas.
+
+Além disso, o Next.js 13 vem com suporte integrado para componentes de servidor, permitindo que as aplicações mais dinâmicas sejam server-first por padrão. Isso significa que posso exibir estados de carregamento instantâneos e transmitir unidades de UI à medida que são renderizadas. O novo componente Image do Next.js 13 é mais rápido, pois o carregamento preguiçoso nativo do navegador não requer hidratação.
+
+E também estou animado com o novo recurso de roteamento do sistema de arquivos do Next.js 13, que permite criar endpoints de API simplesmente criando um arquivo em um diretório específico de nome "api". Isso facilita a criação e gerenciamento de endpoints de API sem a necessidade de configurar rotas complexas. Com todas essas vantagens, acredito que a especialização em Next.js 13 me permitirá criar aplicações web mais eficientes e escaláveis.
 
 Acompanhe minhas habilidades no meu repositório.
 
 - 🔭 Pretendo começar minha carreira com fron-end, mas quero ser dev fullstack, sou vidrado na area back-end por igual.
-- 📫 Fale comigo: https://driwcoder.github.io/MeuLinktree
-- 😄 Pronomes: ele/dele
-- ⚡ Fato engraçado --> eu sei cantar muito bem!
+- ⚡ Fato engraçado --> eu sei cantar bem!
 
 <div> 
   <a href="https://www.youtube.com/channel/UCJKlENIfqPVOmuiavkP4Tyg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
